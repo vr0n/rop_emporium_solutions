@@ -1,0 +1,5 @@
+0x0040068c -> pop r12, r13, r14, r15
+0x00400693 -> pop rdi
+0x00400510 -> print_file func
+0x00400628 -> mov qword [r14], r15
+0x00400629 -> mov dword [rsi], edi
